@@ -28,6 +28,12 @@ MovieApp is an Android application developed using **Kotlin** and **Jetpack Comp
 ## Notes
 - Movie data is mocked for demonstration.
 - TMDB API integration can be added as a future enhancement.
+  
+## Assumptions
+- The app uses static/dummy data for movies.
+- No authentication is implemented as per assignment instructions.
+- Internet permission is not required for the current implementation.
+
 
 ## Author
 Gaargi N
